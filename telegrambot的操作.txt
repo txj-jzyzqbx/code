@@ -1,0 +1,5 @@
+https://api.telegram.org/bot8515980758:AAFQF0eoY94KJCQTo5oCo69xDVZIXP4mRXo/getupdates
+
+
+https://api.telegram.org/bot8515980758:AAFQF0eoY94KJCQTo5oCo69xDVZIXP4mRXo/sendMessage?chat_id=8543667905&text=%22hai%22
+其中chat_id是从上面第一步getupdates中的信息的from部分获取
